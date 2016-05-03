@@ -1,0 +1,9 @@
+IMPORTANT !!!
+
+1> The program uses Graphics2D for the overall game and Swing framework for the game's settings changer.
+
+2> HomeScreen.java is the main class and this class has to be compiled and run first so as to make the game start too.
+
+3> Simply copy and paste the source codes from each .java file into new classes but with the same names, in any IDE.
+
+4> The game settings can be changed from the home screen itself.
